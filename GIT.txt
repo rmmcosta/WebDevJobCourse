@@ -13,3 +13,4 @@ Commands:
 	git add -A (stage all files)
 	git commit -m 'Comments' (save files)
 	git checkout -- . (rturn to the previous version)
+	git push (send to the server - github the changes)
