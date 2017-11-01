@@ -1,0 +1,14 @@
+Version control System:
+	Mange our projects files
+	History
+	Collaboration
+	Feature Branches
+Vocabulary:	
+	Project -> Repository (repo)
+	Working Directory
+	Commit (Save) after staging (Prepare and choose files)
+	
+Commands:
+	git status
+	git add -A
+	git commit - m 'Comments'

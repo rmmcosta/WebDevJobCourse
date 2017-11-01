@@ -1,0 +1,16 @@
+Git
+Github
+NodeJS:
+	NPM
+	GULP
+CSS:
+	BEM + PostCSS
+Mobile-first
+Javascript:
+	OOP
+	Module Pattern
+	Babel
+	Webpack
+Go-live:
+	Github Pages
+	Compress files
