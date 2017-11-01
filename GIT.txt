@@ -10,5 +10,6 @@ Vocabulary:
 	
 Commands:
 	git status
-	git add -A
-	git commit - m 'Comments'
+	git add -A (stage all files)
+	git commit -m 'Comments' (save files)
+	git checkout -- . (rturn to the previous version)
