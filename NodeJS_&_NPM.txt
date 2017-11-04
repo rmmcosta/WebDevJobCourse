@@ -1,0 +1,14 @@
+Automation And Organization:
+	- Browser Refresh
+	- CSS Autoprefixer
+	- CSS Organization
+		Multiple byte size files combined to a single one
+	- Package Management
+		- jQuery
+		- Bootstrap
+		- Normalize.css
+	-Node.js -> Javascript runtime
+		-Server
+			Serve things
+		-Own PC
+			-automate tasks
