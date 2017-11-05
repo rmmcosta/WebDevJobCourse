@@ -12,3 +12,26 @@ Automation And Organization:
 			Serve things
 		-Own PC
 			-automate tasks
+	NPM:
+		-Code Store.
+		-Auto compile CSS
+		-Auto concat JS
+		-Auto update the code we are using
+		-Types of packages:
+			-Node packages:
+				-automation
+				-build tools
+				-Server tasks
+			-other things:
+				-jQuery
+				-Bootstrap
+				-Lodash
+				-Normalize.css
+		Commands:
+			npm install jquery
+			npm init (more organized way)
+				creates one package json
+				we want to create one of this files for every project (repo)
+			npm install jquery --save
+			npm install normalize.css --save
+				Note: after having dependencies in the package.json we can just do npm install to recover evrything
