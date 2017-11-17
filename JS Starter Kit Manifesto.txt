@@ -1,0 +1,12 @@
+Editor: VS Code or WebStorm
+Configuration - EditorConfig
+Package Manager - NPM
+Development WEb Server - http-server
+A way to share WIP (Work in progress) - localtunnel (a hole in the firewall)
+Automation - npm scripts (or GULP)
+Transpiler - Babel, Typescript, Elm (see this one)
+Module Format - ES6 Modules (the future) (In node use Common JS)
+Bundler - web pack (web applications) rollup (libraries)
+Linter - ESLint
+Testing - Mocha or Jest
+CI Server (Continuous integration Server) - Travis (using Github) Appveyor (in case needing windows)

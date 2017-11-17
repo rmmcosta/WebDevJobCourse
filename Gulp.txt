@@ -1,0 +1,13 @@
+Gulp:
+	-A build system
+	-A build tool
+	-A task runner
+	-GULP = automation
+	-Is the record player
+		-Gulp plugins are the records
+		-There are plugins to automate everything
+	-Install globally
+		npm install gulp-cli --global
+	-Install in the project
+		npm install gulp --save-dev
+	
