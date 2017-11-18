@@ -10,4 +10,6 @@ Gulp:
 		npm install gulp-cli --global
 	-Install in the project
 		npm install gulp --save-dev
+	-Gulp Plugins
+		npm install gulp-watch --save-dev
 	
