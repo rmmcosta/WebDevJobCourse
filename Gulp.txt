@@ -12,4 +12,16 @@ Gulp:
 		npm install gulp --save-dev
 	-Gulp Plugins
 		npm install gulp-watch --save-dev
-	
+	-Automated CSS Workflow
+		-Autoprefixer
+		-CSS preprocessors:
+			-Sass
+			-Less
+			-Stylus
+		-CSS variables
+		-Nested CSS (no support in the browser for now)
+		-PostCSS
+			-Postprocessor
+		-gulp.src() - Pull water from (gulp.src('./main.css'))
+		-gulp.dest() - Push water to (gulp.dest('./temp/styles')) transformed with PostCSS
+		-pipe() - gulp.src('./main.css').pipe(gulp.dest('./temp/styles'))
