@@ -12,16 +12,19 @@ Gulp:
 		npm install gulp --save-dev
 	-Gulp Plugins
 		npm install gulp-watch --save-dev
+	-Uninstall
+		npm uninstall css-grid --save-dev (E.g.)
 	-Automated CSS Workflow
-		-Autoprefixer
+		-Autoprefixer (npm install autoprefixer --save-dev)
 		-CSS preprocessors:
 			-Sass
 			-Less
 			-Stylus
-		-CSS variables
-		-Nested CSS (no support in the browser for now)
-		-PostCSS
+		-CSS variables (npm install postcss-simple-vars --save-dev)
+		-Nested CSS (no support in the browser for now) (npm install postcss-nested --save-dev)
+		-PostCSS (npm install gulp-postcss --save-dev)
 			-Postprocessor
 		-gulp.src() - Pull water from (gulp.src('./main.css'))
 		-gulp.dest() - Push water to (gulp.dest('./temp/styles')) transformed with PostCSS
 		-pipe() - gulp.src('./main.css').pipe(gulp.dest('./temp/styles'))
+		- replace @import (npm install gulp-cssimport)

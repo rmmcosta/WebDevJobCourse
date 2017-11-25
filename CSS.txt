@@ -1,0 +1,8 @@
+-File Architecture
+    -Multiple small Files with purpose
+    -Identify patterns
+    -Rules for class names and CSS Selectors
+    - Names with _ informs others that this files will be imported
+    - Tom import those files use gulp css import (npm install gulp-cssimport)
+        -The import should be in the very beginning of the css files
+    -npm install --save-dev css-grid

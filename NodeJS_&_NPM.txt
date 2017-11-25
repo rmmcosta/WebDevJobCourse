@@ -35,3 +35,4 @@ Automation And Organization:
 			npm install jquery --save
 			npm install normalize.css --save
 				Note: after having dependencies in the package.json we can just do npm install to recover evrything
+			dependencies only for to be used by developers (E.g. Gulp) use --save-dev
