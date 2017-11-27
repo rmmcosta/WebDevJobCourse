@@ -1,0 +1,10 @@
+Responsive webdesign:
+    -Layout optimized for the device
+    -First for the smartphone (more used)
+    -PC first more heavy. Mobile first performs better
+    -Mobile first:
+        -Design
+        -Development
+        -First the CSS
+            -Mixins for media queries
+                -npm install postcss-mixins --save-dev

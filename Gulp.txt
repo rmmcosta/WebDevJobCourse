@@ -28,3 +28,5 @@ Gulp:
 		-gulp.dest() - Push water to (gulp.dest('./temp/styles')) transformed with PostCSS
 		-pipe() - gulp.src('./main.css').pipe(gulp.dest('./temp/styles'))
 		- replace @import (npm install gulp-cssimport)
+		-gulp.task(name [, deps] [, fn])
+			The task (name), the tasks to run before ([,deps]) and the functions ([,fn])

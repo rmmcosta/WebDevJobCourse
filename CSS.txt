@@ -6,3 +6,14 @@
     - Tom import those files use gulp css import (npm install gulp-cssimport)
         -The import should be in the very beginning of the css files
     -npm install --save-dev css-grid
+-Design patterns
+    -Use the BEM principles
+        -Block -> Independent reusable part or our design (E.g.: .main-div)
+        -Element -> Belongs to the block. It cannot be used outside the block(.main-div__title). To indicate
+    an Element in BEM we use __
+        -Modifier -> Can be used in a block or element to indicate a change to the default state of an object
+        (.main-div__title--orange). To indicate a modifier in BEM we use --
+        -CSS selectors should target elements with classes (elements are free in the document)
+        -Blocks can be nested dinside other blocks.
+        -Identify pattterns and then create single-responsibility blocks
+        -Makes the relationship between HTML and CSS clear
