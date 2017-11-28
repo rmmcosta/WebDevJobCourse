@@ -8,3 +8,14 @@ Responsive webdesign:
         -First the CSS
             -Mixins for media queries
                 -npm install postcss-mixins --save-dev
+            -Responsive images
+            -Different images for different devices
+            -Two situations:
+                -Art direction and cropping situation (picture element)
+                    <picture>
+                        <source media="(min-width: 650px)" srcset="img_pink_flowers.jpg">
+                        <source media="(min-width: 465px)" srcset="img_white_flower.jpg">
+                        <img src="img_orange_flowers.jpg" alt="Flowers" style="width:auto;">
+                    </picture>
+                -Image resolution and file size situation (faster load times)
+                    <img srcset="1.jpg 450w, 2.jpg 650w">
