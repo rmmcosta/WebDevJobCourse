@@ -17,3 +17,4 @@
         -Blocks can be nested dinside other blocks.
         -Identify pattterns and then create single-responsibility blocks
         -Makes the relationship between HTML and CSS clear
+    -Text not bigger than 1200px width
