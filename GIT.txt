@@ -32,3 +32,11 @@ Branches:
 	How to create a branch;
 	How to switch between branches;
 	Merge one branch into another;
+	-git branch -> To see the branches;
+	-git branch TestCenas -> To create the branch Test Cenas
+	-git branch -d TestCenas -> to delete the test cenas branch;
+	-git checkout TestCenas -> to switch to that branch;
+	- To merge the TestCenas changes in the master we have to switch to the master branch
+	and then go with git merge TestCenas
+	-git commit -am "Coiso e tal..." -> stage and commit in one move
+	-git push origin TestCenas -> push the branch to github
