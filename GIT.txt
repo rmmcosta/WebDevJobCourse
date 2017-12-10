@@ -26,3 +26,9 @@ Commands:
 	touch "index.html" (new file)
 	start notepad++ index.html (open index.html in notepad++)
 	git remote set-url origin https://github.com/rmmcosta/travel-site.git (reset the url for the git server)
+
+Branches:
+	What is a branch;
+	How to create a branch;
+	How to switch between branches;
+	Merge one branch into another;
