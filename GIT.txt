@@ -40,3 +40,4 @@ Branches:
 	and then go with git merge TestCenas
 	-git commit -am "Coiso e tal..." -> stage and commit in one move
 	-git push origin TestCenas -> push the branch to github
+	-git chekout -b our-features -> create and switch to the new branch
