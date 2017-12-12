@@ -41,3 +41,4 @@ Branches:
 	-git commit -am "Coiso e tal..." -> stage and commit in one move
 	-git push origin TestCenas -> push the branch to github
 	-git chekout -b our-features -> create and switch to the new branch
+	-git merge our-features --no-ff -> a dedicated committ with all of the changes made with the merge
