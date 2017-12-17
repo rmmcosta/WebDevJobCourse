@@ -30,3 +30,4 @@ Gulp:
 		- replace @import (npm install gulp-cssimport)
 		-gulp.task(name [, deps] [, fn])
 			The task (name), the tasks to run before ([,deps]) and the functions ([,fn])
+	-Create an icon sprite
