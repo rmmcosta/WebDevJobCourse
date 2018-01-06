@@ -18,3 +18,5 @@
         -Identify pattterns and then create single-responsibility blocks
         -Makes the relationship between HTML and CSS clear
     -Text not bigger than 1200px width
+
+    -postCSS to convert hex color to rgba npm install postcss-hexrgba --save-dev
