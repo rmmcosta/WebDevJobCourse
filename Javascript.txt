@@ -1,0 +1,4 @@
+webpack: 
+    Split js code in multiple files
+    npm install --save-dev webpack (locally in dev dependencies)
+    npm install webpack -g (globally)
