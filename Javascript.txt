@@ -2,3 +2,8 @@ webpack:
     Split js code in multiple files
     npm install --save-dev webpack (locally in dev dependencies)
     npm install webpack -g (globally)
+    webpack can setup it's own web server
+    and has the hability to automate the files generation
+Integrate webpack and gulp
+Babel let us ultramodern javascript even if not supported in the Browsers
+- npm install babel-core babel-loader babel-preset-env --save-dev
