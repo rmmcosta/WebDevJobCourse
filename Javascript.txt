@@ -7,3 +7,4 @@ webpack:
 Integrate webpack and gulp
 Babel let us ultramodern javascript even if not supported in the Browsers
 - npm install babel-core babel-loader babel-preset-env --save-dev
+- link links to id divs with data attributes and the use javascript for highlight the links
