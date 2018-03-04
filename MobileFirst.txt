@@ -19,3 +19,6 @@ Responsive webdesign:
                     </picture>
                 -Image resolution and file size situation (faster load times)
                     <img srcset="1.jpg 450w, 2.jpg 650w">
+
+        Not all the browsers supports picture tag and srcset
+             for this the answer is picturefill
